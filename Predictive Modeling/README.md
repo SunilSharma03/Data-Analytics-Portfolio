@@ -88,7 +88,7 @@ This project demonstrates various predictive modeling approaches including:
 
 #### 1️⃣ **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/sunbyte16/Data-Analytics-Portfolio.git>
 cd Predictive-Modeling
 ```
 
@@ -264,3 +264,4 @@ python examples/time_series_example.py
 ---
 
 **Happy Modeling! 🎯📊🤖**
+
